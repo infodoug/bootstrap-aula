@@ -1,0 +1,19 @@
+nav {
+    background-color: black;
+}
+
+body {
+    background-color: rgb(21, 22, 27);
+}
+.nav-link {
+    font-family: OpenSans,Arial,sans-serif;
+    color: white;
+}
+
+.ap:hover {
+    color: #6f42c1;
+}
+
+.ay:hover {
+    color: #ffc90b;
+}
